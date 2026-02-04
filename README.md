@@ -24,7 +24,7 @@ Quand je ne code pas, tu me trouveras probablement en train de jouer aux jeux vi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ### Frontend 🎨
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +32,7 @@ Quand je ne code pas, tu me trouveras probablement en train de jouer aux jeux vi
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Bases de données 💾
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,47 +47,15 @@ Quand je ne code pas, tu me trouveras probablement en train de jouer aux jeux vi
 
 </div>
 
----
 
-## 🚀 Projets Phares
-
-### 📚 Système de Gestion de Bibliothèque
-> **Stack :** Java • PostgreSQL  
-> **Mission :** Conception et développement back-end complet  
-> Gestion avancée des prêts, réservations, pénalités avec validation par bibliothécaire. Modélisation BDD complexe et logique métier robuste.
-
-### 🏦 Application de Gestion Bancaire & Prêts
-> **Stack :** Java • Spring Boot • PostgreSQL  
-> **Mission :** Back-end et persistance des données  
-> Parcours client complet, calculs de prêts, gestion multi-comptes avec sécurité des transactions.
-
-### 🎫 CRM / Support Client
-> **Stack :** PHP (Flight MVC) • MySQL  
-> **Mission :** API et logique métier  
-> Système de tickets avec suivi, affectation automatique et historique client détaillé.
-
-### 🏠 Application Immobilière
-> **Stack :** React/Vue.js • Node.js • MySQL  
-> **Mission :** Intégration front + API  
-> Plateforme avec listings dynamiques, backoffice admin et système de filtrage avancé.
-
-### 🖥️ Infrastructure Serveurs Linux
-> **Stack :** Linux • SSH • FTP • Samba  
-> Configuration et déploiement de services réseau pour hébergement et partage de fichiers.
-
-### 🎮 Jeux (Échecs, Tennis...)
-> **Stack :** Java Swing • .NET  
-> Développement de jeux avec gestion des règles, IA simple et interfaces graphiques.
-
----
 
 ## 💡 Compétences Clés
 
 ```
 🔹 Backend       → APIs REST, logique métier, architecture applicative
 🔹 Frontend      → Composants réactifs, state management, intégration UI
-🔹 Données       → Modélisation BDD, SQL avancé, intégrité référentielle
-🔹 Systèmes      → Administration Linux, services réseau, déploiement
+🔹 Données       → Modélisation BDD, SQL, intégrité référentielle
+🔹 Systèmes      → Administration Linux(bases), services réseau, déploiement
 ```
 
 ---
@@ -114,26 +82,14 @@ Quand je ne code pas, tu me trouveras probablement en train de jouer aux jeux vi
 
 ---
 
-## 📊 Mes Stats GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njr-panoel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=njr-panoel&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njr-panoel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
-</div>
-
----
 
 ## 🤝 Restons Connectés !
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njr-panoel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Njiva Razakasoa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambinintsoapanoel@email.com)
 
 <br>
 
