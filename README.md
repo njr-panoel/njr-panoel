@@ -1,70 +1,60 @@
-# Salut, je suis NJR Panoel 👋
+# NJR Panoel — Étudiant en informatique
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+passionn%C3%A9;Toujours+en+apprentissage;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
-</div>
+Étudiant en informatique orienté projets concrets. Je construis des applications full-stack et des outils pratiques (web, desktop, mobile) en m'appuyant sur des stacks Java, PHP et JavaScript. J'utilise GitHub comme portfolio technique et comme support de versioning.
 
 ---
 
-## 🚀 À propos de moi
+## Stack technique
 
-- 🔭 Je travaille actuellement sur **des projets personnels**
-- 🌱 J'apprends constamment de **nouvelles technologies**
-- 👯 Je cherche à collaborer sur des **projets open source**
-- 💬 N'hésitez pas à me poser des questions !
-- ⚡ Fun fact: Le code, c'est comme la magie ✨
-
----
-
-## 🛠️ Technologies & Outils
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+- Backend : Java (Spring Boot, Swing), PHP (Flight MVC), Node.js (API), bases Linux pour l'hébergement
+- Frontend : React (en apprentissage), Vue.js/Ionic (mobile, en apprentissage), HTML/CSS
+- Bases de données : PostgreSQL, MySQL, Oracle
+- Outils : Git/GitHub, SSH/FTP/Samba, VS Code, Linux server basics
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## Projets phares (sélection)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njr-panoel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=njr-panoel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njr-panoel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+- Système de gestion de bibliothèque — Modélisation BDD complexe, prêts/réservations/pénalités, validation par bibliothécaire. Rôle : conception et dev back-end. Stack : Java, PostgreSQL.
+- Application de gestion bancaire et de prêts — Parcours client, calculs de prêts, gestion de comptes. Rôle : back-end et persistance. Stack : Java/Spring Boot, PostgreSQL.
+- CRM / tickets support — Suivi tickets, affectation, historique. Rôle : API et logique métier. Stack : PHP (Flight MVC), MySQL.
+- Application immobilière (front/back) — Listings, backoffice, filtrage. Rôle : intégration front + API. Stack : React ou Vue.js (en cours), Node.js, MySQL.
+- Projets serveurs Linux — Mise en place services SSH, FTP, Samba pour déploiement et partage.
+- Jeux simples (échecs, tennis) — Java Swing, gestion des règles et interface.
 
 ---
 
-## 🤝 Connectons-nous !
+## Compétences clés
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njr-panoel)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
-
-</div>
+- Backend : APIs REST, logique métier, structuration BDD relationnelle
+- Frontend : composants réactifs, state management de base, intégration UI
+- Données : conception de schémas, requêtes SQL, intégrité et contraintes
+- Systèmes : usage Linux, services réseau (SSH/FTP/Samba), déploiement simple
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=njr-panoel&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+## En cours d'apprentissage
+
+- React et Vue.js/Ionic pour des interfaces plus abouties
+- Bonnes pratiques Spring Boot (tests, configuration, sécurité basique)
+- Approfondissement Node.js pour des services légers
+
+---
+
+## Objectifs professionnels
+
+- Évoluer vers un rôle full-stack/ingénierie logicielle avec un socle back-end solide
+- Consolider les pratiques de qualité (tests, revues, CI) et la maîtrise des bases de données
+- Contribuer à des projets open source orientés produits concrets
+
+---
+
+## Contact et activité
+
+- GitHub : https://github.com/njr-panoel
+- LinkedIn : à compléter
+- Email : à compléter
 
 <div align="center">
-  
-### Merci de votre visite ! ⭐
-
+  <img src="https://github-readme-stats.vercel.app/api?username=njr-panoel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </div>
